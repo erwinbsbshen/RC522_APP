@@ -1,0 +1,9 @@
+".\ctrl.obj",
+".\key.obj",
+".\lcd12864.obj",
+".\main.obj",
+".\rc522.obj",
+".\timer.obj",
+".\uart.obj" 
+TO "GPS" 
+RAMSIZE(256) 
