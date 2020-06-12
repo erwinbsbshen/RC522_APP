@@ -94,8 +94,10 @@ void main(void)
     }
 
     lcdInitinal();
-    lcdMsg("创思通信",2,2);
-    lcdMsg("www.csgsm.com",4,1);
+    lcdMsg("浙江中医药大学",1,0);
+    lcdMsg("嵌入式课程",2,0);
+	lcdMsg("XXX",3,0);
+    lcdMsg("www.zcmu.edu.com",4,1);
     delay_ms(2000);
     lcdInitinal();
     delay_ms(2);
